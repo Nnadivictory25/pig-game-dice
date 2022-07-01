@@ -106,4 +106,3 @@ btnHold.addEventListener('click', function () {
 
 // New game buttonn click function(reset)
 btnNew.addEventListener('click', init);
-
